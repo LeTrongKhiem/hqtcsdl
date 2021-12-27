@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConnectDatabase",
+    "\\DormitoryManagement",
+    "\\DormitoryManagement\\DormitoryManagement",
+    "\\DormitoryManagement\\DormitoryManagement\\Controller",
+    "\\DormitoryManagement\\DormitoryManagement\\View"
+  ],
+  "SelectedNode": "\\DormitoryManagement\\DormitoryManagement\\View\\FrmStudentInfo.cs",
+  "PreviewInSolutionExplorer": false
+}
